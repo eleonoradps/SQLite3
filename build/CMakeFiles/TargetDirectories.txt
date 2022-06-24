@@ -1,0 +1,5 @@
+C:/Users/lorna/SAE_Institute/SQLiteIntegration-Classroom/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/lorna/SAE_Institute/SQLiteIntegration-Classroom/build/CMakeFiles/SQLib.dir
+C:/Users/lorna/SAE_Institute/SQLiteIntegration-Classroom/build/CMakeFiles/SQLibTest.dir
+C:/Users/lorna/SAE_Institute/SQLiteIntegration-Classroom/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lorna/SAE_Institute/SQLiteIntegration-Classroom/build/CMakeFiles/ZERO_CHECK.dir

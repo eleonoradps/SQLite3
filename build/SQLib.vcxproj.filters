@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lorna\SAE_Institute\SQLiteIntegration-Classroom\SQLib\SQLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lorna\SAE_Institute\SQLiteIntegration-Classroom\SQLib\SQLiteImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\lorna\SAE_Institute\SQLiteIntegration-Classroom\SQLib\SQLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lorna\SAE_Institute\SQLiteIntegration-Classroom\SQLib\SQLiteImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lorna\SAE_Institute\SQLiteIntegration-Classroom\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6EB3EA69-1A8A-3686-A59C-5E3B6CCC8EEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{23717E99-72E1-3602-8176-22EFF906DEC3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
